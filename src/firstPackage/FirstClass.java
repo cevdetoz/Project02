@@ -12,6 +12,11 @@ public class FirstClass {
 		System.out.println("Thirt commit from remote master branch");
 		System.out.println("Here is a merge confict i create from local master");
 		
+
+      System.out.println("Thirt commit from remote master branch");
+		System.out.println("Here is the conflict we have from remote master branch");
+
+		
 	}
 
 }
