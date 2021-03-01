@@ -15,7 +15,7 @@ public class FirstClass {
 
       System.out.println("Thirt commit from remote master branch");
 		System.out.println("Here is the conflict we have from remote master branch");
-
+System.out.println("here is another confilct from local master branch");
 		
 	}
 
