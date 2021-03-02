@@ -25,7 +25,7 @@ public class FirstClass {
 
    System.out.println("here are changes from local feature branch"); 
    System.out.println("here are same changes from remote master branch");
-    
+    System.out.println("here is my  second confilit from local feature");
 
 		
 	}
