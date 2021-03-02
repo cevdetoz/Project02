@@ -19,7 +19,8 @@ public class FirstClass {
 
    System.out.println("Thirt commit from remote master branch");
    System.out.println("Here is the conflict we have from remote master branch");
-   System.out.println("here are changes from local feature branch");
+   System.out.println("here are changes from local feature branch"); 
+   System.out.println("here are same changes from remote master branch");
 
 		
 	}
